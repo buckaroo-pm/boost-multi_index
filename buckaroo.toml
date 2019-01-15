@@ -1,1 +1,61 @@
 targets = [ "//:multi-index" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-bind"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-detail"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-foreach"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-move"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-preprocessor"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-serialization"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-smart_ptr"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-throw_exception"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-tuple"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "branch=master"
