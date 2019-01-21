@@ -114,7 +114,7 @@ revision = "a70772bbd315eb597c3f1e359af742dde46a6f37"
 
 [lock."github.com/buckaroo-pm/boost-serialization"]
 versions = [ "branch=master" ]
-revision = "3cb7f143fead7a6a21f99d58bc2154bb6f85a031"
+revision = "9e8d936f28b7a384aa6988875967bc43ca665286"
 
 [lock."github.com/buckaroo-pm/boost-smart_ptr"]
 versions = [ "branch=master" ]
