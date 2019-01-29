@@ -72,6 +72,10 @@ revision = "417f80abf86251b29609a9747dae7756236699aa"
 versions = [ "branch=master" ]
 revision = "783ec0afe46d65f8cfdb558e16f25adc02797b3c"
 
+[lock."github.com/buckaroo-pm/boost-concept_check"]
+versions = [ "branch=master" ]
+revision = "4dcd765d7933cb9419d9120cbf8df7d83e38f9db"
+
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
 revision = "4392ed19b232ed2dde7623843d7e30ef669d860e"
@@ -90,7 +94,7 @@ revision = "1795a6e9756f4d9ac60d43e2b9b07ec7ddfdbfb7"
 
 [lock."github.com/buckaroo-pm/boost-foreach"]
 versions = [ "branch=master" ]
-revision = "6915e064beb2d9da0cd8f644ee74c6946042bf13"
+revision = "3640a2fff774a36e833f4fe86d7fd3786baf7c1a"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
@@ -111,6 +115,10 @@ revision = "73def0812b7235e0312079c729342787819bf1d5"
 [lock."github.com/buckaroo-pm/boost-preprocessor"]
 versions = [ "branch=master" ]
 revision = "a70772bbd315eb597c3f1e359af742dde46a6f37"
+
+[lock."github.com/buckaroo-pm/boost-range"]
+versions = [ "branch=master" ]
+revision = "10482c9459133c139137e459d8e1051246866983"
 
 [lock."github.com/buckaroo-pm/boost-serialization"]
 versions = [ "branch=master" ]
