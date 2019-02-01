@@ -74,7 +74,7 @@ revision = "9ad7a5ff3b85224e2235657dbb9f48e8d548b43c"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]
-revision = "4dcd765d7933cb9419d9120cbf8df7d83e38f9db"
+revision = "a1412ec177bb12170fc64a174c55b31cfee853e7"
 
 [lock."github.com/buckaroo-pm/boost-config"]
 versions = [ "branch=master" ]
@@ -118,7 +118,7 @@ revision = "4d01d0f9c0ae3ae3cd20e3cbfddbc9909ce8e064"
 
 [lock."github.com/buckaroo-pm/boost-range"]
 versions = [ "branch=master" ]
-revision = "10482c9459133c139137e459d8e1051246866983"
+revision = "2fcd53bd05419d4aedacacee1465f593433c15f0"
 
 [lock."github.com/buckaroo-pm/boost-serialization"]
 versions = [ "branch=master" ]
@@ -138,7 +138,7 @@ revision = "3951e0ca1d6b909bbc815858acbe2449c4a53eed"
 
 [lock."github.com/buckaroo-pm/boost-tuple"]
 versions = [ "branch=master" ]
-revision = "5ffb0abec6da0d9986690b32d20218769a50086b"
+revision = "5548bd44b949ccd04331c4fb25b0bb3c9b0db0d8"
 
 [lock."github.com/buckaroo-pm/boost-type_traits"]
 versions = [ "branch=master" ]
