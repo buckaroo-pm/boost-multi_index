@@ -94,7 +94,7 @@ revision = "c43bde6de716aeaa1958f523576599c384791da2"
 
 [lock."github.com/buckaroo-pm/boost-foreach"]
 versions = [ "branch=master" ]
-revision = "3640a2fff774a36e833f4fe86d7fd3786baf7c1a"
+revision = "2e9e1870f384cc9dc876d9ceb8a7976b94d71a9f"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
